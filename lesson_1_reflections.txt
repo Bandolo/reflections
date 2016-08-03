@@ -1,0 +1,14 @@
+How did viewing a difference between two versions help you see the bug that was introduced?
+it made it easier to idenify the difference
+how could having the entire history of a file make you a more efficient programmer?
+Being able to move back and forth
+what do you thinkare pros and cons of manually chosing when to create a commit as opposed to system automatically creating 
+pro is you have logical steps in versions
+con is you might forget and save too big changes
+why do you think version control systems like git allowyou to save multiple files in one commit,while others like Google Docs treat each file separately
+how can you use the function git log and git diff to view the history o files
+git log shows all commits,while git diff shows the lines modified
+How might version control make you more comfortable to make changes that are breaking something
+You can always go back
+Now that you just configured github what is next
+using it
