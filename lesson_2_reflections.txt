@@ -1,0 +1,4 @@
+what happens when you initialize a repo.why do youneed to do it
+create a .git file which youcan use to push to github
+how is staging area different from working directory and repository.what value does it add
+it helps identify clearly files that will be commited
