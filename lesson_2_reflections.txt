@@ -2,3 +2,11 @@ what happens when you initialize a repo.why do youneed to do it
 create a .git file which youcan use to push to github
 how is staging area different from working directory and repository.what value does it add
 it helps identify clearly files that will be commited
+How can you use git staging to ensure that every commit is a single logical change
+by yusing git --staged
+what are some ways branches can be helpful
+to experiment new things
+how do the diagrams help u visualise the new branch
+Why might you want to always pull changes manually rather than have git automatically update your reposiotory
+because it might get youcofused if others are working on it
+
